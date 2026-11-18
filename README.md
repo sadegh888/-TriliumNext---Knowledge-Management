@@ -5,3 +5,4 @@
 # Usage - Create, organize, and manage personal knowledge in one place.
 # Development - Exploring features that improve note organization and productivity.
 # Improvements - Focus on performance, usability, and user experience.
+# Documentation - Providing clear information about project features and usage.
